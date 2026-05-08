@@ -1,0 +1,1 @@
+print("Hello from Docker! Your new project App-Hello-Docker is working.")
